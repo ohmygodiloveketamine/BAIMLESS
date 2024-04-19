@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/ohmygodiloveketamine/BAIMLESS/blob/main/script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ohmygodiloveketamine/BAIMLESS/main/script", true))()
