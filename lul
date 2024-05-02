@@ -1,6 +1,0 @@
-OrionLib:MakeNotification({
-	Name = "The Keybind Is Z",
-	Content = "Sponsored By Baimless!",
-	Image = "rbxassetid://13350794868",
-	Time = 5
-})
